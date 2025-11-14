@@ -3,7 +3,7 @@
 A simple and clean coming soon page for personal portfolio.
 
 ## Live Demo
-[View Live Demo](https://your-site-name.netlify.app)
+[View Live Demo](portfolio-coming-soon.netlify.app)
 
 ## About
 This is a student project built with React.js and Tailwind CSS.
