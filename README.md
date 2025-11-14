@@ -1,3 +1,21 @@
+# Portfolio Coming Soon Page
+
+A simple and clean coming soon page for personal portfolio.
+
+## Live Demo
+[View Live Demo](https://your-site-name.netlify.app)
+
+## About
+This is a student project built with React.js and Tailwind CSS.
+
+## Technologies
+- React.js
+- Tailwind CSS  
+- Vite
+
+## Contact
+Laiba Mumtaz - Software Engineering Student
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
